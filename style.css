@@ -1,3 +1,7 @@
+.nav-color{
+    background-color: #faf2f5;
+}
+
 .orange-bg{
     background-color: #fceae8;
 }
@@ -14,4 +18,39 @@
 }
 .price{
  color: #ff136f  
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.pro1{
+    box-shadow: 10px;
+}
+.products img{
+    width: 400px;
+}
+.card{
+    border: none;
+}
+.contact{
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 5px;
+    box-shadow: 10px;
+
 }
